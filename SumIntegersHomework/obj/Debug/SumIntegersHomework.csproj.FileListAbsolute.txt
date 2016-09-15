@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\SumIntegersHomework\SumIntegersHomework\bin\Debug\SumIntegersHomework.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\SumIntegersHomework\SumIntegersHomework\obj\Debug\SumIntegersHomework.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\SumIntegersHomework\SumIntegersHomework\bin\Debug\SumIntegersHomework.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\SumIntegersHomework\SumIntegersHomework\bin\Debug\SumIntegersHomework.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\SumIntegersHomework\SumIntegersHomework\obj\Debug\SumIntegersHomework.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\SumIntegersHomework\SumIntegersHomework\obj\Debug\SumIntegersHomework.pdb
